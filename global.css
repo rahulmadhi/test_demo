@@ -1,0 +1,10 @@
+nav{
+    background-color: powderblue;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    box-shadow: 0px 0px 20px rgb(0 , 0 , 0 , 0.3);
+}
